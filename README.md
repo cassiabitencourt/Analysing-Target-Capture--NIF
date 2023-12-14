@@ -1,2 +1,2 @@
-# Analysing Target-Capture [Campos-Rupestres: Newton International Fellowship Project]
-It is a pipeline for analysing target capture data [Angiosperms 353 genes]. This is part of a Newton International Fellowship project about 'Biodiversity Loss of Campos Rupestres'.
+# Phylogenomics of Campos-Rupestres [Newton International Fellowship Project]
+This is a workflow designed to process and analyse next-generation sequencing (NGS) data in cluster environments. It has been specifically developed to analyse target capture data using the Angiosperms 353 bait set for six distinct lineages that are well diversified across the Campos Rupestres in eastern Brazil. This project outcome is related to the 'Biodiversity Loss of Campos Rupestres' project, which was funded through the Royal Society Newton International Fellowship program. 
