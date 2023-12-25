@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#
 #SBATCH --chdir=/path/to/directory/where/all/the/trimmed/data/is/stored/trimmed_file
 #SBATCH --job-name=generatelist
 #SBATCH --partition=medium
