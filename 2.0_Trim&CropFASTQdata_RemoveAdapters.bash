@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#
 # Set SLURM options (SBATCH) for job submission
 #SBATCH --chdir=/path/to/my/working/directory/on/the/HPC/cluster/where/all/the/raw/data/is/stored
 #SBATCH --job-name=trimmomatic
