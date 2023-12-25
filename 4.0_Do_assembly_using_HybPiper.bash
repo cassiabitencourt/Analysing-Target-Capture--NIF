@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#
 #SBATCH --chdir=/path/to/my/working/directory/on/the/HPC/cluster/where/all/the/raw/data/is/stored/assembly
 #SBATCH --job-name=HybPiper
 #SBATCH --partition=long
